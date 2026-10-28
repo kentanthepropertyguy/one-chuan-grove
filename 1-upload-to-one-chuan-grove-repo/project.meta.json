@@ -1,0 +1,34 @@
+{
+  "schema": "ktpg.directory/1",
+  "id": "one-chuan-grove",
+  "name": "One Chuan Grove",
+  "aliases": [
+    "Chuan Grove",
+    "Chuan Grove GLS",
+    "Lorong Chuan GLS"
+  ],
+  "url": "https://onechuangrove.kentanthepropertyguy.com/",
+  "status": "configured",
+  "host": "onechuangrove.kentanthepropertyguy.com",
+  "stage": "pre-launch",
+  "tagline": "Over 1,000 homes near Lorong Chuan MRT, compared with Chuan Park.",
+  "summary": "Upcoming new launch by Sing Holdings and Sunway Developments: over 1,000 homes on two adjoining sites near Lorong Chuan MRT. Pre-launch; prices not yet released.",
+  "area": "Lorong Chuan",
+  "district": "19",
+  "segment": "OCR",
+  "tenure": "99 years",
+  "developer": "Sing Holdings and Sunway Developments",
+  "homes": 1055,
+  "tags": [
+    "pre-launch",
+    "district-19",
+    "mrt",
+    "hdb-upgraders",
+    "large-development"
+  ],
+  "pricing_status": "not_released",
+  "price_from": null,
+  "image": null,
+  "checked_on": "2026-10-21",
+  "framework": "1.5.2"
+}
