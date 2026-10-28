@@ -1,0 +1,17 @@
+{
+  "project": "one-chuan-grove",
+  "framework": "1.5.2",
+  "mode": "production",
+  "built_on": "2026-10-28",
+  "checked_on": "2026-10-21",
+  "sections": [
+    "location",
+    "compare",
+    "pricing",
+    "afford",
+    "assessment",
+    "updates",
+    "ask"
+  ],
+  "pricing_status": "not_released"
+}
