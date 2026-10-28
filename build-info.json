@@ -1,8 +1,8 @@
 {
   "project": "one-chuan-grove",
-  "framework": "1.5.0",
+  "framework": "1.5.1",
   "mode": "production",
-  "built_on": "2026-10-21",
+  "built_on": "2026-10-28",
   "checked_on": "2026-10-21",
   "sections": [
     "location",
